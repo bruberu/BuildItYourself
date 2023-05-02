@@ -1,10 +1,7 @@
-## TemplateDevEnv
+## Build It Yourself
 
-Template workspace for modding Minecraft 1.12.2. Licensed under MIT, it is made for public use.
-
-This template currently utilizies **Gradle 8.1.1** + **[RetroFuturaGradle](https://github.com/GTNewHorizons/RetroFuturaGradle) 1.3.6** + **Forge 14.23.5.2847**.
-
-With **coremod and mixin support** that is easy to configure.
+Process engineering in a Minecraft mod.
+Explore how to actually build machines by inserting modules into blocks to run recipes for you, and create the conditions required for progress!
 
 ### Instructions:
 
