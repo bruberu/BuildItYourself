@@ -71,6 +71,16 @@ repositories {
             includeGroup "curse.maven"
         }
     }
+    maven {
+        // JEI
+        name 'Progwml6 Maven'
+        url 'https://dvs1.progwml6.com/files/maven/'
+    }
+    maven {
+        // CraftTweaker and JEI Backup
+        name 'BlameJared Maven'
+        url 'https://maven.blamejared.com'
+    }
     mavenLocal() // Must be last for caching to work
 }
 
@@ -92,6 +102,8 @@ dependencies {
         annotationProcessor('com.google.code.gson:gson:2.8.6')
         annotationProcessor ("org.spongepowered:mixin:0.8.3") {transitive = false}
     }
+
+    implementation "mezz.jei:jei_1.12.2:${project.jei_version}"
 
 }
 
