@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "buildityourself:blocks/machining_table/side",
+    "down": "buildityourself:blocks/machining_table/bottom",
+    "up": "buildityourself:blocks/machining_table/top",
+    "north": "buildityourself:blocks/machining_table/side",
+    "east": "buildityourself:blocks/machining_table/side",
+    "south": "buildityourself:blocks/machining_table/side",
+    "west": "buildityourself:blocks/machining_table/side"
+  }
+}

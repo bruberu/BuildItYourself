@@ -11,6 +11,8 @@
   "credits": "Thanks to the GregTechCEu devs and the Create mod devs for greatly inspiring this.",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": []
+  "dependencies": [
+    "modularui"
+  ]
 }
 ]

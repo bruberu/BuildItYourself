@@ -1,0 +1,8 @@
+{
+  "forge_marker": 1,
+  "defaults": { "model": "buildityourself:machining_table" },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
